@@ -1,7 +1,17 @@
 # shell-big-data
 Cheat Sheet for shell processing
 
-## GitBash
+## GitBash commands
+
+```Bash
+
+
+```
+
+
+## PowerShell
+
+Useful commands
 
 ```Bash
 
